@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Gilgamesh25
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-Gilgamesh25/Gilgamesh25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 👋 Hi, I’m @FahreziAulasyafa
+- 👀 I’m interested in Web Design and Front-End Developer
+- 🌱 I’m currently learning javascript and their framework like ReactJS
+- Im Currently studied in Muhammdiyah University Sidoarjo From 2021 - present
+- understand about html, css and framework, Js and make a web design
